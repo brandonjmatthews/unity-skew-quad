@@ -12,5 +12,10 @@ Currently the SkewDemo calls UpdateMeshAndTexture in the Update loop but this is
 
 ## Output
 
+Affine Texture Mapping
+
 <img src="Images/affine.png" width="200">
+
+Corrected Texture Mapping
+
 <img src="Images/correct.png" width="200">
