@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+[ExecuteInEditMode]
 public class SkewDemo : MonoBehaviour {
 	public SkewQuad quad;
 	// Use this for initialization

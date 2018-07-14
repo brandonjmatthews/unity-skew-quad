@@ -16,6 +16,10 @@ Affine Texture Mapping
 
 <img src="Images/affine.png" width="200">
 
-Corrected Texture Mapping
+Skewed Texture Mapping
 
-<img src="Images/correct.png" width="200">
+<img src="Images/skew.png" width="200">
+
+Clipped Texture Mapping
+
+<img src="Images/clip.png" width="200">
