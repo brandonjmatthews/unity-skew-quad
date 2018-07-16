@@ -6,9 +6,7 @@ Based on [Bitlush's work in OpenGL ES 2.0](https://github.com/bitlush/android-ar
 
 ## Setup
 
-Load up the Demo scene to see how to set it up. The orthographic camera was simply a personal preference and is not necessary. 
-
-Currently the SkewDemo calls UpdateMeshAndTexture in the Update loop but this is just for easy testing.
+Load up the Demo scene to see how to set it up. Currently the SkewDemo calls UpdateMeshAndTexture in the Update loop but this is just for easy testing.
 
 ## Output
 
